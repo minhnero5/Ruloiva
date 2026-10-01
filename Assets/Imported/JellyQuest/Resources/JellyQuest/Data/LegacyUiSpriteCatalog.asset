@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e76284688744efb8f38583be3c62fa1, type: 3}
+  m_Name: LegacyUiSpriteCatalog
+  m_EditorClassIdentifier: 
+  preloadBackground: {fileID: 9161393128067902179, guid: 35d775d1c9b6b453691085ca6d0d4d34, type: 3}
+  menuBackground: {fileID: 9161393128067902179, guid: 35d775d1c9b6b453691085ca6d0d4d34, type: 3}
+  map1Background: {fileID: 9161393128067902179, guid: 35d775d1c9b6b453691085ca6d0d4d34, type: 3}
+  map2Background: {fileID: 9161393128067902179, guid: 35d775d1c9b6b453691085ca6d0d4d34, type: 3}
+  map3Background: {fileID: 9161393128067902179, guid: 35d775d1c9b6b453691085ca6d0d4d34, type: 3}
+  logo: {fileID: -1138415218652052913, guid: 0edd1504acc6d497fac41cea4ec41964, type: 3}
+  startButton: {fileID: 3686962169364992275, guid: 0a45926c4e2e14c6183ef6476f869659, type: 3}
+  musicOnButton: {fileID: 6261838875085568562, guid: 636cb5628e6d84f0787d58a3be116da4, type: 3}
+  closeSmallButton: {fileID: 508280863549868764, guid: 6684d5daa3ba34f5fbb1219e742d7c19, type: 3}
+  menuShopOpenButton: {fileID: 1611970466183296693, guid: 76354fd0abd8b4d25beb2b4d9e464f28, type: 3}
+  menuShopCloseButton: {fileID: 508280863549868764, guid: 6684d5daa3ba34f5fbb1219e742d7c19, type: 3}
+  menuShopItemBackground: {fileID: -2140027638, guid: 56c64a471ab59452e8a687209462db87, type: 3}
+  menuShopCoinIcon: {fileID: -8926929149379898807, guid: d27f098f59ce34f3aa8bd988740d3599, type: 3}
+  menuButton: {fileID: 1611970466183296693, guid: 76354fd0abd8b4d25beb2b4d9e464f28, type: 3}
+  replayButton: {fileID: 2091330791322327330, guid: 1830d05ec856646298c52b772c90875f, type: 3}
+  resumeButton: {fileID: 3686962169364992275, guid: 0a45926c4e2e14c6183ef6476f869659, type: 3}
+  pauseButton: {fileID: 4390093684011139751, guid: 82240c54dbc0b4d858b1286cff2f61f2, type: 3}
+  buyButton: {fileID: 1678188020, guid: a34f8b864a20849d2a19bad7a7244d19, type: 3}
+  gameplayMovesPanel: {fileID: -2140027638, guid: 56c64a471ab59452e8a687209462db87, type: 3}
+  gameplayObjectivePanel: {fileID: -2140027638, guid: 56c64a471ab59452e8a687209462db87, type: 3}
+  gameplayObjectiveStrip: {fileID: -2140027638, guid: 56c64a471ab59452e8a687209462db87, type: 3}
+  gameplayTimerBarBackground: {fileID: -5376145547440175334, guid: b26777a69e9174602b877c63bf99a888, type: 3}
+  gameplayTimerBarFill: {fileID: -2075639343, guid: 9716cb38d643646a7988169a726f96a5, type: 3}
+  gameplayTimerClock: {fileID: -2090575483, guid: 9716cb38d643646a7988169a726f96a5, type: 3}
+  gameplayTinyStar: {fileID: 4728393952403248342, guid: d5b1d894e03e1469096ab20f69ac0169, type: 3}
+  gameplayPauseOverlayPanel: {fileID: -2140027638, guid: 56c64a471ab59452e8a687209462db87, type: 3}
+  gameplayPauseOverlayTitle: {fileID: 3199617422841519462, guid: ab08ff0fe82014b91ae524db7a905fae, type: 3}
+  gameplayShopOverlayPanel: {fileID: -2140027638, guid: 56c64a471ab59452e8a687209462db87, type: 3}
+  gameplayShopOverlayTitle: {fileID: -8010777819547394543, guid: 3c19f26c8fd184b749c8e08ea41030d5, type: 3}
+  gameplayWinOverlayPanel: {fileID: -2140027638, guid: 56c64a471ab59452e8a687209462db87, type: 3}
+  gameplayWinOverlayTitle: {fileID: -7323664486574740162, guid: 378f1d42daf174b6895f4fa698851466, type: 3}
+  gameplayLoseOverlayPanel: {fileID: -2140027638, guid: 56c64a471ab59452e8a687209462db87, type: 3}
+  gameplayLoseOverlayTitle: {fileID: 653700706207583106, guid: 2d3a56d330dd84a9ea151d00f16e1f6a, type: 3}
+  gameplayTutorialOverlayPanel: {fileID: -2140027638, guid: 56c64a471ab59452e8a687209462db87, type: 3}
+  gameplayWinLeftStar: {fileID: 4728393952403248342, guid: d5b1d894e03e1469096ab20f69ac0169, type: 3}
+  gameplayWinCenterStar: {fileID: 4728393952403248342, guid: d5b1d894e03e1469096ab20f69ac0169, type: 3}
+  gameplayWinRightStar: {fileID: 4728393952403248342, guid: d5b1d894e03e1469096ab20f69ac0169, type: 3}
+  gameplayBackgroundLevels1To16: {fileID: 9161393128067902179, guid: 35d775d1c9b6b453691085ca6d0d4d34, type: 3}
+  gameplayBackgroundLevels17To32: {fileID: 9161393128067902179, guid: 35d775d1c9b6b453691085ca6d0d4d34, type: 3}
+  gameplayBackgroundLevels33Plus: {fileID: 9161393128067902179, guid: 35d775d1c9b6b453691085ca6d0d4d34, type: 3}
+  gameplayBoardTile: {fileID: -2140027638, guid: 56c64a471ab59452e8a687209462db87, type: 3}
+  gameplayBoardTiles:
+  - {fileID: -3187244457743944174, guid: 64c2350ef89a74830a7919333562c2e8, type: 3}
+  - {fileID: -3552569459566352538, guid: 64c2350ef89a74830a7919333562c2e8, type: 3}
+  - {fileID: -90390757, guid: 64c2350ef89a74830a7919333562c2e8, type: 3}
+  gameplayIce: {fileID: -1453352764, guid: 3b04503dc31ce459ebf63950d39dcb55, type: 3}
+  gameplayPieceSprites:
+  - {fileID: 7255797471816181890, guid: 389eb49ac150444048dab11cb6636e74, type: 3}
+  - {fileID: -8926929149379898807, guid: d27f098f59ce34f3aa8bd988740d3599, type: 3}
+  - {fileID: 7482359957103715045, guid: 90b0c047d205444e9b178bf44834749d, type: 3}
+  - {fileID: -885175394, guid: 4b070d1384146474f9347ed94b0f9a64, type: 3}
+  - {fileID: -6016604934809736448, guid: 51d1fc946ffb546ce9ea8bb5b68b28ba, type: 3}
+  gameplayPieceLockBar: {fileID: -1160046037, guid: 3b04503dc31ce459ebf63950d39dcb55, type: 3}
+  gameplaySimpleLockedPieceSprites:
+  - {fileID: 4282217882897941369, guid: bc324ab06392d4d9a806262194bbd298, type: 3}
+  - {fileID: -7391218054750426562, guid: bc324ab06392d4d9a806262194bbd298, type: 3}
+  - {fileID: -2840234239863942219, guid: bc324ab06392d4d9a806262194bbd298, type: 3}
+  - {fileID: -8608900868527367176, guid: bc324ab06392d4d9a806262194bbd298, type: 3}
+  - {fileID: 7985680336560730500, guid: bc324ab06392d4d9a806262194bbd298, type: 3}
+  gameplayBlockerSprites:
+  - {fileID: 255839789, guid: 3b04503dc31ce459ebf63950d39dcb55, type: 3}
+  - {fileID: -1160046037, guid: 3b04503dc31ce459ebf63950d39dcb55, type: 3}
+  - {fileID: -1453352764, guid: 3b04503dc31ce459ebf63950d39dcb55, type: 3}
+  gameplayLayeredLockedPieceSprites:
+  - {fileID: 75381499564062340, guid: bc324ab06392d4d9a806262194bbd298, type: 3}
+  - {fileID: 4815404220208451900, guid: bc324ab06392d4d9a806262194bbd298, type: 3}
+  - {fileID: -8571995041894343090, guid: bc324ab06392d4d9a806262194bbd298, type: 3}
+  - {fileID: 4163606190051174196, guid: bc324ab06392d4d9a806262194bbd298, type: 3}
+  - {fileID: -204147248993804977, guid: bc324ab06392d4d9a806262194bbd298, type: 3}
+  - {fileID: 5266371853962212780, guid: bc324ab06392d4d9a806262194bbd298, type: 3}
+  - {fileID: 5316582720215494861, guid: bc324ab06392d4d9a806262194bbd298, type: 3}
+  - {fileID: -7871015716949627825, guid: bc324ab06392d4d9a806262194bbd298, type: 3}
+  - {fileID: 6393861407325349582, guid: bc324ab06392d4d9a806262194bbd298, type: 3}
+  - {fileID: -137897909209758045, guid: bc324ab06392d4d9a806262194bbd298, type: 3}
+  - {fileID: 6194503689366941673, guid: bc324ab06392d4d9a806262194bbd298, type: 3}
+  - {fileID: -2788172440933632350, guid: bc324ab06392d4d9a806262194bbd298, type: 3}
+  - {fileID: -1380244852915407650, guid: bc324ab06392d4d9a806262194bbd298, type: 3}
+  - {fileID: 294256293, guid: bc324ab06392d4d9a806262194bbd298, type: 3}
+  - {fileID: 980634983, guid: bc324ab06392d4d9a806262194bbd298, type: 3}
+  levelButtonSprites:
+  - {fileID: 1554715219, guid: eb3f5de44ed5e4e2a821db6a95a2cffd, type: 3}
+  - {fileID: 1344303550, guid: 691c41d886cbb4306986a505c96396a7, type: 3}
+  - {fileID: -6590180681097115500, guid: 7acfd33c953f84983baa3dc968d7d8e1, type: 3}
+  - {fileID: 1970447763227678694, guid: 7acfd33c953f84983baa3dc968d7d8e1, type: 3}
+  - {fileID: 1889512816289924763, guid: 7acfd33c953f84983baa3dc968d7d8e1, type: 3}
+  - {fileID: 7952730796279892409, guid: 7acfd33c953f84983baa3dc968d7d8e1, type: 3}
+  - {fileID: -4985345661423675794, guid: 7acfd33c953f84983baa3dc968d7d8e1, type: 3}
+  - {fileID: -3872722126296198492, guid: 7acfd33c953f84983baa3dc968d7d8e1, type: 3}
+  - {fileID: 7996205355787198377, guid: 7acfd33c953f84983baa3dc968d7d8e1, type: 3}
+  - {fileID: 2131774095188301254, guid: 7acfd33c953f84983baa3dc968d7d8e1, type: 3}
+  - {fileID: 1244848713588507803, guid: 7acfd33c953f84983baa3dc968d7d8e1, type: 3}
+  - {fileID: 8761436420400236731, guid: 7acfd33c953f84983baa3dc968d7d8e1, type: 3}
+  - {fileID: -4962890386511596248, guid: 7acfd33c953f84983baa3dc968d7d8e1, type: 3}
+  - {fileID: 1972409206690390005, guid: 7acfd33c953f84983baa3dc968d7d8e1, type: 3}
+  - {fileID: 7274742862694675022, guid: 7acfd33c953f84983baa3dc968d7d8e1, type: 3}
+  - {fileID: -1776568498361572486, guid: 7acfd33c953f84983baa3dc968d7d8e1, type: 3}
+  - {fileID: -6656507364768765128, guid: 7acfd33c953f84983baa3dc968d7d8e1, type: 3}
+  - {fileID: -5098864094001871622, guid: 7acfd33c953f84983baa3dc968d7d8e1, type: 3}
+  - {fileID: 7199307511594499263, guid: 7acfd33c953f84983baa3dc968d7d8e1, type: 3}
+  - {fileID: 7677554921304788713, guid: 7acfd33c953f84983baa3dc968d7d8e1, type: 3}
+  - {fileID: -3405491622836226841, guid: 7acfd33c953f84983baa3dc968d7d8e1, type: 3}
+  - {fileID: -3432958737305555841, guid: 7acfd33c953f84983baa3dc968d7d8e1, type: 3}
+  - {fileID: 3093698201413481152, guid: 7acfd33c953f84983baa3dc968d7d8e1, type: 3}
+  - {fileID: 2318605000491629909, guid: 7acfd33c953f84983baa3dc968d7d8e1, type: 3}
+  - {fileID: 8056746603424417440, guid: 7acfd33c953f84983baa3dc968d7d8e1, type: 3}
+  objectiveSprites:
+  - {fileID: 7255797471816181890, guid: 389eb49ac150444048dab11cb6636e74, type: 3}
+  - {fileID: -8926929149379898807, guid: d27f098f59ce34f3aa8bd988740d3599, type: 3}
+  - {fileID: 7482359957103715045, guid: 90b0c047d205444e9b178bf44834749d, type: 3}
+  - {fileID: -885175394, guid: 4b070d1384146474f9347ed94b0f9a64, type: 3}
+  - {fileID: -6016604934809736448, guid: 51d1fc946ffb546ce9ea8bb5b68b28ba, type: 3}
+  iceObjectiveSprite: {fileID: -1453352764, guid: 3b04503dc31ce459ebf63950d39dcb55, type: 3}
+  singleBoosterActive: {fileID: 489934603529886935, guid: f6122aa1629e04986ae21e7b563d2c99, type: 3}
+  columnBoosterActive: {fileID: 1080870533, guid: f8520e9c01d9d4b6781e52a61fb830bf, type: 3}
+  rowBoosterActive: {fileID: -426674514, guid: 2136ff05cc0484a308fabb2a69479630, type: 3}
+  crossBoosterActive: {fileID: -885219698, guid: 0db1c73dca8bd46e7808c120a6d05224, type: 3}
+  areaBoosterActive: {fileID: 6731321748877727940, guid: 66f07af734c374960b8eadbf66058cd9, type: 3}
+  singleBoosterLocked: {fileID: 8411600514858190272, guid: 212d46b5392db408592656db128958c7, type: 3}
+  columnBoosterLocked: {fileID: -2998894919660646380, guid: 212d46b5392db408592656db128958c7, type: 3}
+  rowBoosterLocked: {fileID: -6964888302527028683, guid: 212d46b5392db408592656db128958c7, type: 3}
+  crossBoosterLocked: {fileID: -7176744081273674403, guid: 212d46b5392db408592656db128958c7, type: 3}
+  areaBoosterLocked: {fileID: 1429423938091870668, guid: 212d46b5392db408592656db128958c7, type: 3}
+  gameplayBoosterPreviewSprite: {fileID: -2140027638, guid: 56c64a471ab59452e8a687209462db87, type: 3}
+  gameplayBoosterPreviewHintColor: {r: 0.25977325, g: 1, b: 0, a: 1}
+  gameplayBoosterPreviewTargetColor: {r: 1, g: 0.18039215, b: 0.26204878, a: 1}
+  gameplayBoosterActiveButtonColor: {r: 0, g: 1, b: 0.16816235, a: 1}

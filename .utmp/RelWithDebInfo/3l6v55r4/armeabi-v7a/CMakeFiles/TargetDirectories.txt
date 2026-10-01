@@ -1,0 +1,8 @@
+/Volumes/Oziny/Game/ruloiva/.utmp/RelWithDebInfo/3l6v55r4/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Volumes/Oziny/Game/ruloiva/.utmp/RelWithDebInfo/3l6v55r4/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Volumes/Oziny/Game/ruloiva/.utmp/RelWithDebInfo/3l6v55r4/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+/Volumes/Oziny/Game/ruloiva/.utmp/RelWithDebInfo/3l6v55r4/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+/Volumes/Oziny/Game/ruloiva/.utmp/RelWithDebInfo/3l6v55r4/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
+/Volumes/Oziny/Game/ruloiva/.utmp/RelWithDebInfo/3l6v55r4/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+/Volumes/Oziny/Game/ruloiva/.utmp/RelWithDebInfo/3l6v55r4/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+/Volumes/Oziny/Game/ruloiva/.utmp/RelWithDebInfo/3l6v55r4/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
